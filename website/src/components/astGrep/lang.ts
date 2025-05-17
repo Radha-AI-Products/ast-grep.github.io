@@ -32,6 +32,7 @@ export const languageDisplayNames: Record<SupportedLang, string> = {
   kotlin: 'Kotlin',
   php: 'PHP',
   python: 'Python',
+  razor: 'Razor'
   ruby: 'Ruby',
   rust: 'Rust',
   scala: 'Scala',
