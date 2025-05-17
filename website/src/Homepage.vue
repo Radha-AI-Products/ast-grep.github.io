@@ -26,9 +26,5 @@ provide('toggle-appearance', async () => {
 </script>
 
 <template>
-  <Theme.Layout>
-    <template #home-features-after>
-    <h1>Not actual site</h1>
-    </template>
-  </Theme.Layout>
+  <h1>Not actual site</h1>
 </template>
