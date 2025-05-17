@@ -3,6 +3,7 @@ on:
   push:
     branches:
       - main
+  workflow_run: 
 jobs:
   build:
     runs-on: ubuntu-latest
