@@ -27,12 +27,8 @@ provide('toggle-appearance', async () => {
 
 <template>
   <Theme.Layout>
-    <template #home-features-before>
-      <Features />
-    </template>
     <template #home-features-after>
-      <Languages />
-      <Ecosystem />
+    <h1>Not actual site</h1>
     </template>
   </Theme.Layout>
 </template>
